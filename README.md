@@ -37,3 +37,6 @@ I'm a Junior majoring in computer science. 🎀 <br><br>
   <img src="https://img.shields.io/badge/-Django-inactive"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
+
+
+<h3 align="center">•••</h3>
