@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 I'm a Junior majoring in computer science. 🎀 <br><br>
 ✨Jyeon's 2021 GOAL✨ <br>
        Algorithms for Coding-Test <br>
-  certificate[spreadshit&database level-1, Korean History Proficiency level-1, Toeic <br>
-  Web Toy Project 📝
+  certificate[spreadshit&database level-1, Korean-History level-1, Toeic] <br>
+  Web&Android Toy Project 📝
 </p>
   
   <h3 align="center"> 📌Techs that I've used at least once📌 </h3>
