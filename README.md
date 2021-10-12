@@ -31,6 +31,7 @@ I'm a Junior majoring in computer science. 🎀 <br><br>
   <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-9cf"/>&nbsp
+  <img src="https://img.shields.io/badge/-kotlin-success"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Android Stduio-ff69b4"/>&nbsp
   <img src="https://img.shields.io/badge/-FLASK-green"/>&nbsp
