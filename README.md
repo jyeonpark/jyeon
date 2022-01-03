@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 I'm a Junior majoring in computer science. 🎀 <br><br>
-✨Jyeon's 2021 GOAL✨ <br>
+✨Jyeon's 2022 GOAL✨ <br>
        Algorithms for Coding-Test <br>
-  certificate : spreadshit&database level-1, Korean-History level-1, Toeic, opic, SQLD <br>
+   Engineer Information Processing, Toeic, opic, SQLD <br>
+       Android App Lauching <br>
   Web&Android Toy Project 📝
 </p>
   
