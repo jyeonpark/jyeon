@@ -22,7 +22,6 @@ I'm a Junior majoring in computer science. 🎀 <br><br>
        Algorithms for Coding-Test <br>
    Engineer Information Processing, Toeic, opic, SQLD <br>
        Android App Lauching <br>
-  Web&Android Toy Project 📝
 </p>
   
   <h3 align="center"> 📌Techs that I've used at least once📌 </h3>
