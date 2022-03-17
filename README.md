@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 I'm a senior majoring in computer science. 🎀 <br><br>
 ✨Jyeon's 2022 GOAL✨ <br>
        Algorithms for Coding-Test <br>
-   Engineer Information Processing, Toeic, opic, SQLD <br>
-       Android App Lauching with Kotlin <br>
+   Engineer Information Processing, Toeic, Toiec Speaking, SQLD <br>
+       Android App Lauching with Kotlin & Spring <br>
+       Building a Website using React <br>
 </p>
   
   <h3 align="center"> 📌Techs that I've used at least once📌 </h3>
@@ -31,13 +32,15 @@ I'm a senior majoring in computer science. 🎀 <br><br>
   <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-9cf"/>&nbsp
-  <img src="https://img.shields.io/badge/-kotlin-success"/>&nbsp
+  <img src="https://img.shields.io/badge/-KOTLIN-success"/>&nbsp
+  <img src="https://img.shields.io/badge/-REACT-critical"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-React-critical"/>&nbsp
+  <img src="https://img.shields.io/badge/-HTML-yello"/>&nbsp
+  <img src="https://img.shields.io/badge/-CSS-9cf"/>&nbsp
   <img src="https://img.shields.io/badge/-Android Stduio-ff69b4"/>&nbsp
   <img src="https://img.shields.io/badge/-FLASK-green"/>&nbsp
-  <img src="https://img.shields.io/badge/-Django-inactive"/>&nbsp
-  <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-DJANGO-inactive"/>&nbsp
+  <img src="https://img.shields.io/badge/-GIT-black"/>&nbsp
 </p>
 
 
