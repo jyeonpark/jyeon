@@ -21,8 +21,9 @@ I'm a senior majoring in computer science. 🎀 <br><br>
 ✨Jyeon's 2022 GOAL✨ <br>
        Algorithms for Coding-Test <br>
    Engineer Information Processing, Toeic, Toiec Speaking, SQLD <br>
-       Android App Lauching with Kotlin & Spring <br>
-       Building a Website using React <br>
+       Android App Lauching with Kotlin <br>
+       Building a Website with React <br>
+       Building Rest Services with Spring <br>
 </p>
   
   <h3 align="center"> 📌Techs that I've used at least once📌 </h3>
