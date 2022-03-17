@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-I'm a senior majoring in computer science. 🎀 <br><br>
+I'm a senior majoring in computer science. 🎀 <br><br></p>
        <h4 align="center"> ✨Jyeon's 2022 GOAL✨ <br> </h4>
+       <p align="center">
        Algorithms for Coding-Test <br>
    Engineer Information Processing, Toeic, Toiec Speaking, SQLD <br>
        Android App Lauching with Kotlin <br>
        Building a Website with React <br>
-       Building Rest Services with Spring <br>
-</p>
+       Building Rest Services with Spring <br></p>
+
   
   <h3 align="center"> 📌Techs that I've used at least once📌 </h3>
 <p align="center">
