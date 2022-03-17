@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 I'm a senior majoring in computer science. 🎀 <br><br>
-✨Jyeon's 2022 GOAL✨ <br>
+<h2> ✨Jyeon's 2022 GOAL✨ <h2/><br>
        Algorithms for Coding-Test <br>
    Engineer Information Processing, Toeic, Toiec Speaking, SQLD <br>
        Android App Lauching with Kotlin <br>
