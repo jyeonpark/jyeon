@@ -33,6 +33,7 @@ I'm a senior majoring in computer science. 🎀 <br><br>
   <img src="https://img.shields.io/badge/-JAVASCRIPT-9cf"/>&nbsp
   <img src="https://img.shields.io/badge/-kotlin-success"/>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/-React-critical"/>&nbsp
   <img src="https://img.shields.io/badge/-Android Stduio-ff69b4"/>&nbsp
   <img src="https://img.shields.io/badge/-FLASK-green"/>&nbsp
   <img src="https://img.shields.io/badge/-Django-inactive"/>&nbsp
