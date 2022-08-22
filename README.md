@@ -25,7 +25,8 @@ I'm a senior majoring in Soongsil Univ's computer science. 🎀 <br>
    Engineer Information Processing, Toeic, Toiec Speaking, SQLD <br>
        Android App Lauching with Kotlin <br>
        Building a Website with React <br>
-       Building Rest Services with Spring <br></p>
+       Building Rest Services with Spring <br>
+       Reading a book a week</p>
 
   
   <h3 align="center"> 📌Techs that I've used at least once📌 </h3>
