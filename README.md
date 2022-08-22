@@ -41,8 +41,6 @@ I'm a senior majoring in Soongsil Univ's computer science. 🎀 <br>
   <img src="https://img.shields.io/badge/-HTML-yello"/>&nbsp
   <img src="https://img.shields.io/badge/-CSS-9cf"/>&nbsp
   <img src="https://img.shields.io/badge/-Android Stduio-ff69b4"/>&nbsp
-  <img src="https://img.shields.io/badge/-FLASK-green"/>&nbsp
-  <img src="https://img.shields.io/badge/-DJANGO-inactive"/>&nbsp
   <img src="https://img.shields.io/badge/-GIT-black"/>&nbsp
 </p>
 
