@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
 I'm a senior majoring in Soongsil Univ's computer science. 🎀 <br>
        <br></p>
-       <h4 align="center"> ✨Jyeon's 2022 GOAL✨ <br> </h4>
+       <h3 align="center"> ✨Jyeon's 2022 GOAL✨ <br> </h3>
        <p align="center">
        Studying Algorithms for Coding-Test <br>
    Engineer Information Processing, Toeic, Toiec Speaking, SQLD <br>
