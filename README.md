@@ -22,7 +22,7 @@ I'm styding Web FrontEnd&BackEnd with java 🎀 <br>
        <h3 align="center"> ✨Jyeon's 2023 GOAL✨ <br> </h3>
        <p align="center">
        Studying Algorithms for Coding-Test with Java <br>
-       Get SQLD License <br>
+       Get SQLD, Opic License <br>
        Studying Computer Science <br>
        Building a Website with Vue&SpringBoot </p>
 
@@ -45,3 +45,6 @@ I'm styding Web FrontEnd&BackEnd with java 🎀 <br>
 
 
 <h3 align="center">•••</h3>
+&nbsp
+&nbsp
+&nbsp
