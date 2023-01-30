@@ -17,16 +17,14 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-I'm a senior majoring in Soongsil Univ's computer science. 🎀 <br>
+I'm styding Web FrontEnd&BackEnd with java 🎀 <br>
        <br></p>
-       <h3 align="center"> ✨Jyeon's 2022 GOAL✨ <br> </h3>
+       <h3 align="center"> ✨Jyeon's 2023 GOAL✨ <br> </h3>
        <p align="center">
-       Studying Algorithms for Coding-Test <br>
-   Engineer Information Processing, Toeic, Toiec Speaking, SQLD <br>
-       Android App Lauching with Kotlin <br>
-       Building a Website with React <br>
-       Building Rest Services with Spring <br>
-       Reading a book a week</p>
+       Studying Algorithms for Coding-Test with Java <br>
+       Get SQLD License <br>
+       Studying Computer Science <br>
+       Building a Website with Vue&SpringBoot </p>
 
   
   <h3 align="center"> 📌Techs that I've used at least once📌 </h3>
