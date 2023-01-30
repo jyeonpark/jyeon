@@ -43,8 +43,6 @@ I'm styding Web FrontEnd&BackEnd with java 🎀 <br>
   <img src="https://img.shields.io/badge/-GIT-black"/>&nbsp
 </p>
 
-
+<br><br>
+<br><br>
 <h3 align="center">•••</h3>
-&nbsp
-&nbsp
-&nbsp
