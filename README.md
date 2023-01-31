@@ -24,7 +24,7 @@ I'm styding Web FrontEnd&BackEnd with java 🎀 <br>
        Studying Algorithms for Coding-Test with Java <br>
        Get SQLD, Opic License <br>
        Studying Computer Science <br>
-       Building a Website with Vue&SpringBoot </p>
+       Building a Website with Vue&SpringBoot </p><br>
 
   
   <h3 align="center"> 📌Techs that I've used at least once📌 </h3>
