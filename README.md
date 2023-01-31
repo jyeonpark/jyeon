@@ -62,8 +62,12 @@ I'm styding Web FrontEnd&BackEnd with java 🎀 <br>
 <br><br>
 <div align=center>
 	<br>
-![jyeonpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyeonpark&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api?username=jyeonpark&show_icons=true">
+	<a href="s">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeonpark&exclude_repo=jyeonpark.github.io&layout=compact&theme=radical" />
+		</a>
+	<a href="s">
+<img src="https://github-readme-stats.vercel.app/api?username=jyeonpark&show_icons=true&theme=radical">
+		</a>
 
 
 <br><br>
