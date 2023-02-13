@@ -71,7 +71,11 @@ I'm styding Web FrontEnd&BackEnd with java 🎀 <br>
 
 
 <br><br>
-<p>🏆 Baekjoon solved rank 🏆</p>
+<h3>🏆 Baekjoon solved rank 🏆</h3>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeon0605)](https://solved.ac/jyeon0605)
+<br>
+
+### [[jyeon's recent post⬇](https://jyeonnyang2.tistory.com/)]
+[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=jyeonnyang2)](https://jyeonnyang2.tistory.com/)
 </div>
