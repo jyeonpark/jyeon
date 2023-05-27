@@ -17,14 +17,6 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-I'm styding Web FrontEnd&BackEnd with java 🎀 <br>
-       <br></p>
-       <h3 align="center"> ✨Jyeon's 2023 GOAL✨ <br> </h3>
-       <p align="center">
-       Studying Algorithms for Coding-Test with Java <br>
-       Get SQLD, Opic License <br>
-       Studying Computer Science <br>
-       Building a Website with Vue&SpringBoot </p><br>
 
   
   <div align=center>
