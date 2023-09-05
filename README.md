@@ -56,9 +56,7 @@ Here are some ideas to get you started:
 	<a href="s">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeonpark&exclude_repo=jyeonpark.github.io&layout=compact&theme=radical" />
 		</a>
-	<a href="s">
-<img src="https://github-readme-stats.vercel.app/api?username=jyeonpark&show_icons=true&theme=radical">
-		</a>
+
 
 
 <br><br>
