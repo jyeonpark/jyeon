@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jyeon's%20Study%20Log📚&fontSize=70)
 
-<h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 
   
